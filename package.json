@@ -1,0 +1,27 @@
+{
+  "name": "jobify",
+  "version": "1.0.0",
+  "description": "Desenvolvido na semana do FullstackLab patrocinado pela DevPleno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroAlisson/Jobify.git"
+  },
+  "keywords": [
+    "jobify",
+    "job"
+  ],
+  "author": "Pedro Alisson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PedroAlisson/Jobify/issues"
+  },
+  "homepage": "https://github.com/PedroAlisson/Jobify#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
